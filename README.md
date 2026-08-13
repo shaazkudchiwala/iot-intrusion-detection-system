@@ -465,7 +465,7 @@ iot-intrusion-detection-system/
 ├── RainMakerNotificationTest/
 │   └── RainMakerNotificationTest.ino      # Standalone RainMaker notification test
 └── media/
-    └── Video-Link.txt                     # Reference to project video
+    └── demo.md                     # Reference to project video
 ```
 
 ### RainMakerNotificationTest
